@@ -25,3 +25,21 @@ Exercícios desenvolvidos com a proposta de praticar os conceitos de lógica de 
 <h5>String:heavy_check_mark:</h5>
 <h5>Number:heavy_check_mark:</h5>
 <h5>Boolean:heavy_check_mark:</h5>
+<h5>Conversão Implícita:heavy_check_mark:</h5>
+<h5>Conversão Explícita:heavy_check_mark:</h5>
+<h5>TypeOf:heavy_check_mark:</h5>
+<h5>Operadores de comparação:heavy_check_mark:</h5>
+<h5>Operador ternário:heavy_check_mark:</h5>
+<h5>Erros e stacktrace:heavy_check_mark:</h5>
+<h5>console.log():heavy_check_mark:</h5>
+<h5>console.error():heavy_check_mark:</h5>
+<h5>console.error(new error):heavy_check_mark:</h5>
+<h5>function:heavy_check_mark:</h5>
+<h5>Function declaration :heavy_check_mark:</h5>
+<h5>Function expression:heavy_check_mark:</h5>
+<h5>Arrow function:heavy_check_mark:</h5>
+
+<h3>:link: Documentação</h3>
+<h5>:link: https://nodejs.org/api/console.html </h5>
+<h5>:link: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions </h5>
+<h5>:link: https://www.educative.io/answers/function-declaration-vs-function-expression-in-javascript </h5>
